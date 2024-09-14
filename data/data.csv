@@ -1,0 +1,476 @@
+modstudy,pathology,image_name,impression,dictionary,tabledata
+TB screening,normal,3632247,['No active or old infective etiology found.'],"{
+    ""Air space opacities"":false,
+    ""Consolidation (with air bronchograms)"":false,
+    ""Nodules (few)"":false,
+    ""Blunting of CP Angle"":false,
+     ""Normal"": true,
+    ""Cavity"":false,
+    ""Features of Volume Loss (shift of diaphragm/ mediastinal shift)"":false,
+    ""Asymmetric reticular changes (fibrosis)"":false,
+    ""Bronchiectasis"":false,
+    ""Calcified Granulomas"":false
+}","[{
+    ""findings"": [
+      {
+        ""category"": ""Active Infection"",
+        ""items"": [
+          {
+            ""name"": ""Air space opacities"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Consolidation (with air bronchograms)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Nodules (few)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Blunting of CP Angle"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          }
+        ]
+      },
+      {
+        ""category"": ""Old Tuberculosis"",
+        ""items"": [
+          {
+            ""name"": ""Cavity"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Asymmetric reticular changes (fibrosis)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Bronchiectasis"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Calcified Granulomas"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          }
+        ]
+      }
+    ]
+  }]"
+TB screening,normal,3750741,['No active or old infective etiology found.'],"{
+    ""Air space opacities"":false,
+    ""Consolidation (with air bronchograms)"":false,
+    ""Nodules (few)"":false,
+    ""Blunting of CP Angle"":false,
+    ""Normal"": true,
+    ""Cavity"":false,
+    ""Features of Volume Loss (shift of diaphragm/ mediastinal shift)"":false,
+    ""Asymmetric reticular changes (fibrosis)"":false,
+    ""Bronchiectasis"":false,
+    ""Calcified Granulomas"":false
+}","[{
+    ""findings"": [
+      {
+        ""category"": ""Active Infection"",
+        ""items"": [
+          {
+            ""name"": ""Air space opacities"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Consolidation (with air bronchograms)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Nodules (few)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Blunting of CP Angle"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          }
+        ]
+      },
+      {
+        ""category"": ""Old Tuberculosis"",
+        ""items"": [
+          {
+            ""name"": ""Cavity"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Asymmetric reticular changes (fibrosis)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Bronchiectasis"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Calcified Granulomas"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          }
+        ]
+      }
+    ]
+  }]"
+TB screening,active tuberculosis,3196387,['Features are likely in favour of active infective aetiology (to rule out tuberculosis).'],"{
+    ""Air space opacities"": true, 
+    ""Consolidation (with air bronchograms)"": true,
+    ""Nodules (few)"": false,
+    ""Blunting of CP Angle"": true,
+    ""Cavity"": false,
+    ""Features of Volume Loss (shift of diaphragm/ mediastinal shift)"": false,
+    ""Asymmetric reticular changes (fibrosis)"": false,
+    ""Bronchiectasis"": false,
+    ""Calcified Granulomas"": false
+}","[{
+  ""findings"": [
+    {
+      ""category"": ""Active Infection"",
+      ""items"": [
+        {
+          ""name"": ""Air space opacities"",
+          ""presence"": ""Y"",
+          ""side"": ""Right"",
+          ""zone"": ""Upper, Middle""
+        },
+        {
+          ""name"": ""Consolidation (with air bronchograms)"",
+          ""presence"": ""Y"",
+          ""side"": ""Right"",
+          ""zone"": ""Upper, Middle""
+        },
+        {
+          ""name"": ""Nodules (few)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Blunting of CP Angle"",
+          ""presence"": ""N"",
+          ""side"": ""Right"",
+          ""zone"": ""Lower""
+        }
+      ]
+    },
+    {
+      ""category"": ""Old Tuberculosis"",
+      ""items"": [
+        {
+          ""name"": ""Cavity"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Asymmetric reticular changes (fibrosis)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Bronchiectasis"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Calcified Granulomas"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        }
+      ]
+    }
+  ]
+}]
+"
+TB screening,active tuberculosis,3075540,['Features are likely in favour of active infective aetiology (to rule out tuberculosis).'],"{
+    ""Air space opacities"": true,
+    ""Consolidation (with air bronchograms)"": true,
+    ""Nodules (few)"": true,
+    ""Blunting of CP Angle"": true,
+    ""Cavity"": false,
+    ""Features of Volume Loss (shift of diaphragm/ mediastinal shift)"": false,
+    ""Asymmetric reticular changes (fibrosis)"": false,
+    ""Bronchiectasis"": false,
+    ""Calcified Granulomas"": false
+}
+","[{
+  ""findings"": [
+    {
+      ""category"": ""Active Infection"",
+      ""items"": [
+        {
+          ""name"": ""Air space opacities"",
+          ""presence"": ""Y"",
+          ""side"": ""Bilateral"",
+          ""zone"": ""Lung Fields""
+        },
+        {
+          ""name"": ""Consolidation (with air bronchograms)"",
+          ""presence"": ""Y"",
+          ""side"": ""Bilateral"",
+          ""zone"": ""Lung Fields""
+        },
+        {
+          ""name"": ""Nodules (few)"",
+          ""presence"": ""Y"",
+          ""side"": ""Bilateral,
+          ""zone"": ""Upper,Middle""
+        },
+        {
+          ""name"": ""Blunting of CP Angle"",
+          ""presence"": ""Y"",
+          ""side"": ""Right"",
+          ""zone"": ""Lower""
+        }
+      ]
+    },
+    {
+      ""category"": ""Old Tuberculosis"",
+      ""items"": [
+        {
+          ""name"": ""Cavity"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Asymmetric reticular changes (fibrosis)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Bronchiectasis"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Calcified Granulomas"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        }
+      ]
+    }
+  ]
+}]
+"
+TB screening,old tuberculosis,3229090,['Features are likely in favour of old infective aetiology likely Tuberculosis.'],"{
+    ""Air space opacities"": false,
+    ""Consolidation (with air bronchograms)"": false,
+    ""Nodules (few)"": false,
+    ""Blunting of CP Angle"": false,
+    ""Cavity"": false,
+    ""Features of Volume Loss (shift of diaphragm/ mediastinal shift)"": true,
+    ""Asymmetric reticular changes (fibrosis)"": false,
+    ""Bronchiectasis"": false,
+    ""Calcified Granulomas"": true
+}","[{
+  ""findings"": [
+    {
+      ""category"": ""Active Infection"",
+      ""items"": [
+        {
+          ""name"": ""Air space opacities"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Consolidation (with air bronchograms)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Nodules (few)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Blunting of CP Angle"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        }
+      ]
+    },
+    {
+      ""category"": ""Old Tuberculosis"",
+      ""items"": [
+        {
+          ""name"": ""Cavity"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+          ""presence"": ""Y"",
+          ""side"": ""Left"",
+          ""zone"": ""Upper""
+        },
+        {
+          ""name"": ""Asymmetric reticular changes (fibrosis)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Bronchiectasis"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Calcified Granulomas"",
+          ""presence"": ""Y"",
+          ""side"": ""Bilateral"",
+          ""zone"": ""Upper, Middle""
+        }
+      ]
+    }
+  ]
+}]
+"
+TB screening,old tuberculosis,3075441,['Features are likely in favour of old infective aetiology likely Tuberculosis.'],"{
+    ""Air space opacities"": false,
+    ""Consolidation (with air bronchograms)"": false,
+    ""Nodules (few)"": false,
+    ""Blunting of CP Angle"": false,
+    ""Cavity"": false,
+    ""Features of Volume Loss (shift of diaphragm/ mediastinal shift)"": true,
+    ""Asymmetric reticular changes (fibrosis)"": true,
+    ""Bronchiectasis"": false,
+    ""Calcified Granulomas"": true
+}","[{
+  ""findings"": [
+    {
+      ""category"": ""Active Infection"",
+      ""items"": [
+        {
+          ""name"": ""Air space opacities"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Consolidation (with air bronchograms)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Nodules (few)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Blunting of CP Angle"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        }
+      ]
+    },
+    {
+      ""category"": ""Old Tuberculosis"",
+      ""items"": [
+        {
+          ""name"": ""Cavity"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+          ""presence"": ""Y"",
+          ""side"": ""Left"",
+          ""zone"": ""Upper""
+        },
+        {
+          ""name"": ""Asymmetric reticular changes (fibrosis)"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Bronchiectasis"",
+          ""presence"": ""N"",
+          ""side"": null,
+          ""zone"": null
+        },
+        {
+          ""name"": ""Calcified Granulomas"",
+          ""presence"": ""Y"",
+          ""side"": ""Bilateral"",
+          ""zone"": ""Upper, Middle""
+        }
+      ]
+    }
+  ]
+}]
+"
