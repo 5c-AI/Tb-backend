@@ -248,74 +248,74 @@ TB screening,active tuberculosis,3075540,['Features are likely in favour of acti
     ""Calcified Granulomas"": false
 }
 ","[{
-  ""findings"": [
-    {
-      ""category"": ""Active Infection"",
-      ""items"": [
-        {
-          ""name"": ""Air space opacities"",
-          ""presence"": ""Y"",
-          ""side"": ""Bilateral"",
-          ""zone"": ""Lung Fields""
-        },
-        {
-          ""name"": ""Consolidation (with air bronchograms)"",
-          ""presence"": ""Y"",
-          ""side"": ""Bilateral"",
-          ""zone"": ""Lung Fields""
-        },
-        {
-          ""name"": ""Nodules (few)"",
-          ""presence"": ""Y"",
-          ""side"": ""Bilateral,
-          ""zone"": ""Upper,Middle""
-        },
-        {
-          ""name"": ""Blunting of CP Angle"",
-          ""presence"": ""Y"",
-          ""side"": ""Right"",
-          ""zone"": ""Lower""
-        }
-      ]
-    },
-    {
-      ""category"": ""Old Tuberculosis"",
-      ""items"": [
-        {
-          ""name"": ""Cavity"",
-          ""presence"": ""N"",
-          ""side"": null,
-          ""zone"": null
-        },
-        {
-          ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
-          ""presence"": ""N"",
-          ""side"": null,
-          ""zone"": null
-        },
-        {
-          ""name"": ""Asymmetric reticular changes (fibrosis)"",
-          ""presence"": ""N"",
-          ""side"": null,
-          ""zone"": null
-        },
-        {
-          ""name"": ""Bronchiectasis"",
-          ""presence"": ""N"",
-          ""side"": null,
-          ""zone"": null
-        },
-        {
-          ""name"": ""Calcified Granulomas"",
-          ""presence"": ""N"",
-          ""side"": null,
-          ""zone"": null
-        }
-      ]
-    }
-  ]
-}]
-"
+    ""findings"": [
+      {
+        ""category"": ""Active Infection"",
+        ""items"": [
+          {
+            ""name"": ""Air space opacities"",
+            ""presence"": ""Y"",
+            ""side"": ""Bilateral"",
+            ""zone"": ""Lung Fields""
+          },
+          {
+            ""name"": ""Consolidation (with air bronchograms)"",
+            ""presence"": ""Y"",
+            ""side"": ""Bilateral"",
+            ""zone"": ""Lung Fields""
+          },
+          {
+            ""name"": ""Nodules (few)"",
+            ""presence"": ""Y"",
+            ""side"": ""Bilateral"",
+            ""zone"": ""Upper,Middle""
+          },
+          {
+            ""name"": ""Blunting of CP Angle"",
+            ""presence"": ""Y"",
+            ""side"": ""Right"",
+            ""zone"": ""Lower""
+          }
+        ]
+      },
+      {
+        ""category"": ""Old Tuberculosis"",
+        ""items"": [
+          {
+            ""name"": ""Cavity"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Features of Volume Loss (shift of diaphragm/mediastinal shift)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Asymmetric reticular changes (fibrosis)"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Bronchiectasis"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          },
+          {
+            ""name"": ""Calcified Granulomas"",
+            ""presence"": ""N"",
+            ""side"": null,
+            ""zone"": null
+          }
+        ]
+      }
+    ]
+  }]
+  "
 TB screening,old tuberculosis,3229090,['Features are likely in favour of old infective aetiology likely Tuberculosis.'],"{
     ""Air space opacities"": false,
     ""Consolidation (with air bronchograms)"": false,
@@ -453,9 +453,9 @@ TB screening,old tuberculosis,3075441,['Features are likely in favour of old inf
         },
         {
           ""name"": ""Asymmetric reticular changes (fibrosis)"",
-          ""presence"": ""N"",
-          ""side"": null,
-          ""zone"": null
+          ""presence"": ""Y"",
+          ""side"": ""Left"",
+          ""zone"": ""Upper,Middle""
         },
         {
           ""name"": ""Bronchiectasis"",
@@ -466,8 +466,8 @@ TB screening,old tuberculosis,3075441,['Features are likely in favour of old inf
         {
           ""name"": ""Calcified Granulomas"",
           ""presence"": ""Y"",
-          ""side"": ""Bilateral"",
-          ""zone"": ""Upper, Middle""
+          ""side"": ""Left"",
+          ""zone"": ""Lung Fields""
         }
       ]
     }
